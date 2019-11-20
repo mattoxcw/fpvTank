@@ -29,7 +29,7 @@ This will tell you its ip address on its current network. For us we will be usin
 
 On the Host computer and in the fpvTank.sh file, replace the current ip address with your Raspberry Pi's ip address so that when the code is run, it connects properly to the Raspberry Pi. 
 
-On the Raspberry Pi, adjust the Blynk authentication code to your newly created project's authentication code and rename the project to:
+On the Raspberry Pi, adjust the Blynk authentication code found in motorDrive.py to your newly created project's authentication code and rename the project to:
 	yournameRCtank.py
 
 At this point, the code **should** be good to go! See our Blynk project on the Wiki to see how to setup your Blynk project like ours. 
